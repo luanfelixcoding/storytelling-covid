@@ -1,0 +1,2 @@
+0e1822d5a2aff92f9d9c2213dc8e6605 *tx_rend_brasil_regioes_ufs_2022.xlsx
+dbf43a839b7d6f3edf761afb616902de *tx_rend_brasil_regioes_ufs_2022.ods
