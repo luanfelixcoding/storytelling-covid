@@ -1,0 +1,22 @@
+RENDIMENTO_ESCOLAR
+verificar colunas dataset 2021
+arrumar os nomes das colunas dataset 2021
+e pegar as colunas
+NU_ANO_CENSO	
+UNIDGEO	
+NO_CATEGORIA	
+NO_DEPENDENCIA	
+1_CAT_FUN
+1_CAT_MED
+2_CAT_FUN
+2_CAT_MED
+3_CAT_FUN
+3_CAT_MED
+
+PARA
+'ano', 'unidade_geografica', 'localizacao', 'dependencia_adm',
+    'total_aprovacao_FUND', 'total_aprovacao_EM', 'total_reprovacao_FUND', 
+    'total_reprovacao_EM', 'total_abandono_FUND', 'total_abandono_EM'
+e converter para um arquivo .csv separado
+
+fazer esse mesmo processo com 2022
