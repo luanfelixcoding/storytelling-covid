@@ -1,10 +1,10 @@
-# 📊 Projeto: Impacto da Pandemia na Educação e no Mercado de Trabalho
+# Projeto: Análise dos Dados dos Impactos da Pandemia nas Escolas e Ambiente Laboral no Brasil (2019-2023)
 
 Este projeto analisa os efeitos da pandemia na educação e no mercado de trabalho brasileiro, utilizando dados públicos e bibliotecas de análise de dados em Python.
 
 ---
 
-## 📥 Como usar os datasets no Google Colab
+## Como usar os datasets no Google Colab
 
 ### 1. Baixar os dados
 
@@ -38,7 +38,7 @@ Este projeto analisa os efeitos da pandemia na educação e no mercado de trabal
 
 ---
 
-### 📁 Estrutura esperada no Colab
+### Estrutura esperada no Colab
 
 ```
 /content/
@@ -58,16 +58,17 @@ Este projeto analisa os efeitos da pandemia na educação e no mercado de trabal
 ```
 
 
-> ✅ Com essa estrutura, o código do projeto conseguirá carregar os arquivos corretamente sem precisar alterar os caminhos.
+> Com essa estrutura, o código do projeto conseguirá carregar os arquivos corretamente sem precisar alterar os caminhos.
 
 ---
 
 ## 🧪 Tecnologias utilizadas
 
 - Python 3.10+
-- Pandas
-- Seaborn
-- Matplotlib
+- `pandas`
+- `plotly`
+- `requests`
 - Google Colab
 
 ---
+
